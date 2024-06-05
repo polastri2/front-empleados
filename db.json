@@ -1,0 +1,132 @@
+{
+   "empleados" : [
+    {
+      "id": 1,
+      "name": "Queren Esther Aguirre Pena",
+      "document_number": "11111111",
+      "salary": 1200,
+      "age": 22,
+      "profile": "ingeniero",
+      "admission_date": "2020-05-20T00:00:00"
+    },
+    {
+      "id": 2,
+      "name": "Ruth Noemí Atoche Ynfante",
+      "document_number": "11111112",
+      "salary": 1500,
+      "age": 25,
+      "profile": "tecnico",
+      "admission_date": "2022-05-20T00:00:00"
+    },
+    {
+      "id": 3,
+      "name": "Martín Coronel Michilot",
+      "document_number": "11111113",
+      "salary": 1600,
+      "age": 23,
+      "profile": "obrero",
+      "admission_date": "2021-05-20T00:00:00"
+    },
+    {
+      "id": 4,
+      "name": "Yenni Coromoto Melendez Torres",
+      "document_number": "11111114",
+      "salary": 1200,
+      "age": 15,
+      "profile": "ingeniero",
+      "admission_date": "2020-05-20T00:00:00"
+    },
+    {
+      "id": 5,
+      "name": "Gabriela Marina Pulache Trigozo",
+      "document_number": "11111115",
+      "salary": 1600,
+      "age": 40,
+      "profile": "tecnico",
+      "admission_date": "2022-05-20T00:00:00"
+    },
+    {
+      "id": 6,
+      "name": "Juan Bleycker Silva Pretel",
+      "document_number": "11111116",
+      "salary": 1500,
+      "age": 20,
+      "profile": "obrero",
+      "admission_date": "2021-05-20T00:00:00"
+    },
+    {
+      "id": 7,
+      "name": "Lidia Aguilar Rivera",
+      "document_number": "11111117",
+      "salary": 1800,
+      "age": 18,
+      "profile": "ingeniero",
+      "admission_date": "2022-05-20T00:00:00"
+    },
+    {
+      "id": 8,
+      "name": "Luzmer Eduardo Garcia Cordova",
+      "document_number": "11111118",
+      "salary": 1800,
+      "age": 20,
+      "profile": "tecnico",
+      "admission_date": "2022-05-20T00:00:00"
+    },
+    {
+      "id": 9,
+      "name": "Santos Isabel Sanchez Morrocho",
+      "document_number": "11111119",
+      "salary": 1500,
+      "age": 25,
+      "profile": "obrero",
+      "admission_date": "2021-05-20T00:00:00"
+    },
+    {
+      "id": 10,
+      "name": "Crystal Alejandra Alzamora Ramirez",
+      "document_number": "11111120",
+      "salary": 1200,
+      "age": 16,
+      "profile": "ingeniero",
+      "admission_date": "2022-05-20T00:00:00"
+    },
+    {
+      "id": 11,
+      "name": "Carlos Teodomiro Arrese Lopez",
+      "document_number": "11111121",
+      "salary": 2000,
+      "age": 18,
+      "profile": "tecnico",
+      "admission_date": "2020-05-20T00:00:00"
+    },
+    {
+      "id": 12,
+      "name": "Ana Paula Cevasco Quintana",
+      "document_number": "11111122",
+      "salary": 1800,
+      "age": 19,
+      "profile": "obrero",
+      "admission_date": "2022-05-20T00:00:00"
+    },
+    {
+      "id": 13,
+      "name": "Adexi Katerine Hernandez de Orellana",
+      "document_number": "11111123",
+      "salary": 2000,
+      "age": 23,
+      "profile": "ingeniero",
+      "admission_date": "2021-05-20T00:00:00"
+    },
+    {
+      "id": 14,
+      "name": "Claudia Catherine de Pozo",
+      "document_number": "11111124",
+      "salary": 1600,
+      "age": 28,
+      "profile": "tecnico",
+      "admission_date": "2022-05-20T00:00:00"
+    }
+ ]
+}
+   
+  
